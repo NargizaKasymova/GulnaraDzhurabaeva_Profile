@@ -267,9 +267,9 @@ span {
 }
 .final {
     display: flex;
-    /* justify-content: space-between; */
-    width: 1450px;
-    height: 250px;
+    justify-content: space-between;
+    width: 1460px;
+    height: 350px;
     background-color: #f80e0e;
     margin-top: 202px;
     /* margin-left: 70px; */
@@ -280,9 +280,9 @@ span {
     /* object-fit: contain; */
 }
 .final-text{
-    margin-top: 30px;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-right: 65px;
     font-size: 20px;
     /* text-align: center; */
 }
