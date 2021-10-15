@@ -8,9 +8,12 @@
     padding-right: 1300px;
     padding-left: 160px;
     background-color: #eb0c0c;
+    /* object-fit: contain; */
+}
+.egemen {
+    
     object-fit: contain;
 }
-
 .day-version {
     background-color: white;
     color: black;
@@ -268,7 +271,7 @@ span {
     width: 1200px;
     height: 250px;
     background-color: #f80e0e;
-    margin-top: 87px;
+    margin-top: 202px;
     margin-left: 70px;
     font-size: 18px;
     line-height: 21px;
